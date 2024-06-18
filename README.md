@@ -110,7 +110,7 @@ _Note_: preview will be generated using [ANSI Escape Sequences][3]
 
 ### Atom One Light ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/Atom One Light.terminal>))
 
-![Screenshot](screenshots/atomonelight.png)
+![Screenshot](screenshots/atom_one_light.png)
 
 ### ayu ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/ayu.terminal>))
 
@@ -434,7 +434,7 @@ _Note_: preview will be generated using [ANSI Escape Sequences][3]
 
 ### Monokai Pro (Filter Spectrum) ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/Monokai Pro (Filter Spectrum).terminal>))
 
-![Screenshot](screenshots/monokai_pro__filter_spectrum_.terminal.png)
+![Screenshot](screenshots/monokai_pro__filter_spectrum_.png)
 
 ### Monokai Soda ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/Monokai Soda.terminal>))
 
@@ -585,7 +585,7 @@ _Note_: preview will be generated using [ANSI Escape Sequences][3]
 
 ### Solarized Dark (patched) ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/Solarized Dark (patched).terminal>))
 
-![Screenshot](screenshots/solarized_dark___patched.png)
+![Screenshot](screenshots/solarized_dark__patched_.png)
 
 ### Solarized Dark Higher Contrast ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/Solarized Dark Higher Contrast.terminal>))
 
